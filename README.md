@@ -4,7 +4,7 @@
 - 👀 Freelance Fullstack Developer
 - Stack: C# .Net7 core / Javascript / GOlang / Node / SQL / K8s
 - Libarys: React / GIN / Express / Postgress and more. 
-- 🌱 I’m currently learning c#, .Net 7 core
+- 🌱 Plans to start on a c#, .Net 7core project, Rest api & login
 
 ### Contacts: 
 - 📫 You can reach me @ olle.code@hotmail.com
