@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 👋 My name is: Olle Tengnér
+- 👀 Freelance Fullstack Developer
+- Stack: C# .Net7 core / Javascript / GOlang / Node / SQL / K8s
+- Libarys: React / GIN / Express / Postgress and more. 
+- 🌱 Plans to start on a c#, .Net 7core project, Rest api & login
+
+### Contacts: 
+- 📫 You can reach me @ https://nraxi.github.io/nraxi-home/
+- 📷 instagram: 3k9swe
+- 🔗 Linkedin: Check link
+
 <!--
 **Nraxi/Nraxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
