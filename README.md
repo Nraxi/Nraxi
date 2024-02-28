@@ -4,7 +4,7 @@
 - 👀 Freelance Fullstack Developer
 - Stack: C# .Net7 core / Javascript / GOlang / Node / SQL / K8s
 - Libarys: React / GIN / Express / Postgress and more. 
-- 🌱 Plans to start on a c#, .Net 7core project, Rest api & login
+- 🌱  I’m currently learning more into .Net with Lexicon
 
 ### Contacts: 
 - 📫 You can reach me @ https://nraxi.github.io/nraxi-home/
