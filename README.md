@@ -8,7 +8,7 @@
 
 ### Contacts: 
 - 📫 You can reach me @ https://nraxi.github.io/nraxi-home/
-- 📷 instagram: 3k9swe
+- 📷 instagram: olle_sthlm
 - 🔗 Linkedin: Check link
 
 <!--
