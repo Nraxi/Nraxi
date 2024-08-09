@@ -2,9 +2,9 @@
 
 - 👋 My name is: Olle Tengnér
 - 👀 Freelance Fullstack Developer
-- Stack: C# .Net7 core / Javascript / GOlang / Node / SQL / K8s
+- Stack: C# / .Net7 core / .Net / Javascript / GOlang / Node / SQL / K8s / Azure
 - Libarys: React / GIN / Express / Postgress and more. 
-- 🌱  I’m currently learning more into .Net with Lexicon
+- 🌱  I’m currently learing everything at all time 
 
 ### Contacts: 
 - 📫 You can reach me @ https://nraxi.github.io/nraxi-home/
