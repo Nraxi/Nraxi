@@ -2,7 +2,7 @@
 
 - 👋 My name is: Olle Tengnér
 - 👀 Freelance Fullstack Developer
-- Stack: C# / .Net7 core / .Net / Javascript / GOlang / Node / SQL / K8s / Azure
+- Stack: C# / .Net core / EF / .Net / Javascript / GOlang / Node / SQL / K8s / Azure
 - Libarys: React / GIN / Express / Postgress and more. 
 - 🌱  I’m currently looking for a new contract
 
