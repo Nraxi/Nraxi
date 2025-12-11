@@ -2,8 +2,8 @@
 
 - 👋 My name is: Olle Tengnér
 - Fullstack Developer looking for work
-- Stack: C# / .Net core / EF / .Net / Javascript / Typescript /GO-lang / Node / SQL / K8s / Azure / Linux / REACT/NEXT/VUE Etc 
-- Libarys: React / GIN / Express / Postgress and more. 
+- Stack: C# / .Net core / EF / .Net / Javascript / Typescript /GO-lang / Node / SQL / K8s / Azure / Linux Bash / GIT and more.
+- Libarys: React / Vue / Vite / NextJS / GIN / Express / Postgress and more. 
 - 🌱  I’m currently looking for a new contract
 
 ### Contacts: 
