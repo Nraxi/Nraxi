@@ -8,7 +8,6 @@
 
 ### Contacts: 
 - 📫 You can reach me @ https://nraxi.github.io/TengnerDev/
-- 📷 instagram: olle_sthlm
 - 🔗 Linkedin: Check link
 
 <!--
