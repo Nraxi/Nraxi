@@ -4,7 +4,7 @@
 - Fullstack Developer looking for work
 - Stack: C# / .Net core / EF / .Net / Javascript / Typescript / GO-lang / Node / SQL / K8s / Azure / Linux Bash / GIT and more.
 - Libarys: React / Vue / Vite / NextJS / GIN / Express / Postgress and more. 
-- 🌱  I’m currently looking for a new contract
+
 
 ### Contacts: 
 - 📫 You can reach me @ https://nraxi.github.io/TengnerDev/
